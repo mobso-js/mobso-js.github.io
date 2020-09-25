@@ -1,3 +1,3 @@
 # mobso.js
 
-Mobso.js is amazing
+Mobso.js is amazingly cool :)
